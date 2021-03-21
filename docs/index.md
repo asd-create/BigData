@@ -1,4 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -21,10 +20,10 @@
 </head>
 
 <body>
-<div style="position:relative; border:1px solid #000"><img src="image/hadoop.jpeg" width="1500" height="500" /> </div>
+<div style="position:relative; border:1px solid #000"><img src="./image/hadoop.jpeg" width="1500" height="500" /> </div>
 <div align="left">
   <div class="l"  style="border:1px solid #000">
-	<div><font size="+3";>大数据学习</font></div>
+	<div><font size="+3">大数据学习</font></div>
     <hr />
     <div>
     	<dl>
