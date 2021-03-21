@@ -1,6 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style>
+	.l{
+		float:left;
+		width:30%;
+		position: relative;
+		height: 700px;}
+	.r{
+		float:right;
+		width:65%;
+		position: relative;
+		overflow-x: hidden;
+		overflow-y: scroll;
+		height: 700px;}
+</style>
+
+</head>
+
 <body>
-<div>
-  <div>
+<div style="position:relative; border:1px solid #000"><img src="image/hadoop.jpeg" width="1500" height="500" /> </div>
+<div align="left">
+  <div class="l"  style="border:1px solid #000">
 	<div><font size="+3";>大数据学习</font></div>
     <hr />
     <div>
