@@ -1,7 +1,8 @@
 # BigData
 项目描述：hdfs安装教程
 
-项目启动命令，从编辑中打开
+```
+#项目启动命令
 #!/bin/bash
  
 read -p "请输入你需要的命令（start or stop or jps）:" userInput
@@ -41,3 +42,4 @@ then
 else
   echo "请输入规范的命令！！！"
 fi
+```
